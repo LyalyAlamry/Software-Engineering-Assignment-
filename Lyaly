@@ -1,0 +1,13 @@
+#include 
+
+int main ()
+{
+ int i,j,k ;
+cout<<"Enter 2 numbers" << endl;
+cin>>i;
+cin>>j;
+k=i-j;
+
+cout<<" the sum is " << k;
+return 0;
+}
